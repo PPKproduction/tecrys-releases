@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Tecrys</title>
+<!-- items, newest first -->
+<item>
+<title>Tecrys 0.6.0 (build 12)</title>
+<pubDate>Fri, 13 Nov 2026 19:01:09 -0000</pubDate>
+<sparkle:version>12</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>First release with automatic updates: Tecrys ▸ Check for Updates… (Mac), Help ▸ Check for Updates… (Windows)</li><li>Material Library: search filters as you type; problems in the standards library are listed in the window</li><li>Your standards library (materials, holes, threads, hardware) is kept in your own folder and survives updates</li><li>Equations, Properties, Configurations and the Material Library work the same on Mac and Windows</li><li>&quot;Made of&quot; is now called &quot;Material&quot;</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-12/Tecrys-0.6.0-12.dmg" sparkle:edSignature="TsLbXJ7LQBiSFfK4tEZLfv+uz8aLK/W4Fca1h9GQycbRTSGeSkDYvwON3zYj1TmyynM+96PoVXSziyNIA5foBw==" length="38147074" type="application/octet-stream" sparkle:os="macos"/>
+</item>
+</channel>
+</rss>
