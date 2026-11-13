@@ -4,6 +4,15 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 13)</title>
+<pubDate>Fri, 13 Nov 2026 19:20:22 -0000</pubDate>
+<sparkle:version>13</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Help ▸ Suggest a Feature… and Report a Problem… open a short form (your version and platform filled in)</li><li>New Help topic: Ideas and Problems</li><li>This is the first update delivered through Check for Updates — if you see this, updating works</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-13/Tecrys-0.6.0-13.dmg" sparkle:edSignature="u+oYs/g+BKTjeAlDQGiWR5qknbelQge+NIwI+2/y2E/djBPRTupIVK5p/OPQ1X+g5jJtfK4bSoW+IiwzJPScBg==" length="38140089" type="application/octet-stream" sparkle:os="macos"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 12)</title>
 <pubDate>Fri, 13 Nov 2026 19:01:09 -0000</pubDate>
 <sparkle:version>12</sparkle:version>

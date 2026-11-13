@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 13)</title>
+<pubDate>Fri, 13 Nov 2026 19:20:22 -0000</pubDate>
+<sparkle:version>13</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Help ▸ Suggest a Feature… and Report a Problem… open a short form (your version and platform filled in)</li><li>New Help topic: Ideas and Problems</li><li>This is the first update delivered through Check for Updates — if you see this, updating works</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-13/Tecrys-0.6.0-13-windows-x64.exe" sparkle:edSignature="z8ZCujJyfeNHIXyC41ylOa84vliRbfYsfIErcgAI2mXNWKinPjn8ojj8YLzphII9AgsXQoPiYtYm3p7TAD8hCw==" length="32642843" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 12)</title>
 <pubDate>Fri, 13 Nov 2026 19:01:09 -0000</pubDate>
 <sparkle:version>12</sparkle:version>
