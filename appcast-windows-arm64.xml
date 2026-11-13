@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 14)</title>
+<pubDate>Fri, 13 Nov 2026 22:13:01 -0000</pubDate>
+<sparkle:version>14</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Reference geometry: planes tangent to cylinders, points at a distance along an edge, reference planes/axes/points in assemblies that follow their components (#3)</li><li>Feature dialogs put the keyboard in the first value (e.g. the extrude depth), so you can type it at once (#4)</li><li>Windows: Esc cancels an open feature dialog (#5)</li><li>Windows: Tecrys assemblies can be edited — component tree with menus, Insert Part, Delete, Save</li><li>Windows: Mates in assemblies (the same Mate tool as on the Mac; picked faces in orange, the first part see-through)</li><li>Windows: Measure and Section View in assemblies</li><li>Mac: Section View in assemblies</li><li>Selected mates: value, Suppressed, Flip Side/Alignment and Delete in the inspector on both platforms</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-14/Tecrys-0.6.0-14-windows-arm64.exe" sparkle:edSignature="jPqm0uPk1ZWdylqNEPdZpzqSrx2V2PwYVA8yMVg9/MwaA4TvubJu/XLqn36fLWW/rrY1yQZnvkYr9KZG642/AQ==" length="36742724" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 13)</title>
 <pubDate>Fri, 13 Nov 2026 19:20:22 -0000</pubDate>
 <sparkle:version>13</sparkle:version>
