@@ -11,4 +11,7 @@ Windows (x64 and ARM64), and the feeds its built-in updater reads.
 - **Source**: every release includes `Tecrys-<version>-<build>-source.tar.gz`. Tecrys is free
   software under the GNU GPL version 3.
 
+**Ideas and problems**: [open an issue](../../issues/new/choose) (Suggest a feature / Report a problem;
+a free GitHub account is needed). In Tecrys: Help ▸ Suggest a Feature… / Report a Problem….
+
 The `appcast-*.xml` files are the update feeds (signed with the Tecrys update key); don't edit them by hand.
