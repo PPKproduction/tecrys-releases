@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 16)</title>
+<pubDate>Sat, 14 Nov 2026 10:39:34 -0000</pubDate>
+<sparkle:version>16</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Front, Top and Right Plane are drawn stronger, with the X, Y and Z axes where they meet through the origin (#9).</li><li>Windows: the Hole dialog (hole, counterbore, countersink, tapped and custom holes from the standards), the same as on the Mac.</li><li>Windows: Tecrys Help (F1, Help menu and the welcome page).</li><li>Windows: a welcome page with New Part, New Assembly, Open, Help and recent files when no document is open (#8).</li><li>Windows: the standard planes light up under the pointer while you choose a sketch plane (#6).</li><li>Reference geometry dialogs no longer crash when a pick has no plane yet (#7).</li><li>Windows: the Configurations sheet works (it failed to open).</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-16/Tecrys-0.6.0-16-windows-arm64.exe" sparkle:edSignature="ZWL/wOqYEaWXKRd0LEWLlep+1BDkBrpRGtRhDp+0fdq8pHCF72fewxdRsDiIOlZri6n1GO7Cdy4VBpLxLlfdDQ==" length="36845793" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 14)</title>
 <pubDate>Fri, 13 Nov 2026 22:13:01 -0000</pubDate>
 <sparkle:version>14</sparkle:version>
