@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 17)</title>
+<pubDate>Sat, 14 Nov 2026 11:33:41 -0000</pubDate>
+<sparkle:version>17</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Hole Builder on Windows too: design custom holes by dragging their section, sort them into categories (Window ▸ Hole Builder).</li><li>Windows assemblies: linear and circular component patterns, Smart Fasteners, Interference, reference planes, axes and points, BOM and Standard Hardware.</li><li>Windows: closing a sketch turns to the isometric view, as on the Mac (#10).</li><li>Mac: the Hole Builder, Standard Hardware, Parts List, pattern, fastener and interference panels now share Windows&#x27; rules.</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-17/Tecrys-0.6.0-17-windows-arm64.exe" sparkle:edSignature="NhvJbpITNB9x0Z6nCD99bzWw/b/VHQMJQ2APlyeeUiF4g1kitcaUoal22gfUQUlpLt7zHJy0/Bi19AQPl39aDw==" length="36993365" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 16)</title>
 <pubDate>Sat, 14 Nov 2026 10:39:34 -0000</pubDate>
 <sparkle:version>16</sparkle:version>
