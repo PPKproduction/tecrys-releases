@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 21)</title>
+<pubDate>Mon, 16 Nov 2026 23:07:34 -0000</pubDate>
+<sparkle:version>21</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Mac and Windows now use the same icons and the same tooltips everywhere (#45): new icons for axes, planes, points, Normal To, Section View, Measure and the display styles.</li><li>Fixed components in an assembly are marked with a pin on both platforms (#45).</li><li>Hovered and selected planes are orange and 5 % opaque on both platforms (#35).</li><li>Windows: loose sketch points stay visible after the sketch is closed (#36).</li><li>Hole dialog: snap points catch the pointer from 16 px and show a ring of that reach (#37).</li><li>Axes are drawn dash-dotted: standard axes, axis features and pattern axes (#39).</li><li>Standard planes shown while making reference geometry no longer draw their axes (#40).</li><li>Equations: the note explains when to type “=” (#41).</li><li>Hole Builder, Drawing Templates, Material Library and the other sheets open maximised (#43).</li><li>Windows: drawings (.tcdrw) open, print and export as PDF; editing them stays on the Mac for now.</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-21/Tecrys-0.6.0-21-windows-arm64.exe" sparkle:edSignature="ydA+hLkh++8gTj6nTXu+TnpPfK8ooVS7Cgtoju2uWHyCsoP43sn4hN035hF4tNieOePE8l63Qexjm0ilTxRbCQ==" length="37217661" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 20)</title>
 <pubDate>Mon, 16 Nov 2026 19:47:55 -0000</pubDate>
 <sparkle:version>20</sparkle:version>
