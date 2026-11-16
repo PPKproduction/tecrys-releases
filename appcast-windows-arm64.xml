@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 20)</title>
+<pubDate>Mon, 16 Nov 2026 19:47:55 -0000</pubDate>
+<sparkle:version>20</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>A new part opens looking at the three planes from the right and a little above, filling the view (#17).</li><li>The standard axes are drawn once each, dashed (#29).</li><li>A dialog&#x27;s first value is selected when it opens, so you can type the number straight away (#34).</li><li>Enter confirms every dialog, from its fields, checkboxes or the viewport (#33).</li><li>Reference planes you show can be clicked in the viewport when choosing a sketch plane and in the Plane dialog (#30).</li><li>Windows: cosmetic threads are shown (thread texture and end circles); in Wireframe, threads show as a helix on both platforms (#32).</li><li>Hole dialog: the snap points of shown sketches appear at once (also circle quadrants, arc midpoints, ellipse foci); clicking a sketch in the feature tree puts a hole at each of its points and circle centres (#31).</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-20/Tecrys-0.6.0-20-windows-arm64.exe" sparkle:edSignature="feQXH7B5VdMRM1BfbSej5OfsVV//P9LiK0+SDSd4rx64rvw/YALFGN4PahU8QKcJBVwrwRogPKtBsNhlaCb6Bg==" length="37022482" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 19)</title>
 <pubDate>Mon, 16 Nov 2026 18:15:14 -0000</pubDate>
 <sparkle:version>19</sparkle:version>
