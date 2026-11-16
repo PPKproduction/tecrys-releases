@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 19)</title>
+<pubDate>Mon, 16 Nov 2026 18:15:14 -0000</pubDate>
+<sparkle:version>19</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Mouse: left drag draws a selection box (edges; left to right selects what is inside, right to left what it touches), middle drag orbits, Ctrl+middle drag pans, the right button does nothing for now (#15)</li><li>Wireframe shows the outlines of round faces, such as a cylinder&#x27;s sides (#16)</li><li>Planes are 10 % see-through with dashed axes; the empty part&#x27;s plane picker opens in an isometric view of the three planes (#17)</li><li>Windows: the body hides planes behind it and shows where a plane cuts through it; every shown plane carries its name (#18)</li><li>Sketch dimension values accept equations: the part&#x27;s variables and the sketch&#x27;s own D1, D2… (#24)</li><li>A sketch no longer stays selected after a feature is made or the body is clicked (#25)</li><li>Plane/Axis/Point dialog: Front, Top and Right Plane can be clicked, also on an empty part (#12)</li><li>Windows: the feature tree keeps its expanded groups (#13); a command bar button runs the variant it shows (#19); the dimension value field keeps the keyboard (#23)</li><li>Enter in a feature dialog&#x27;s value field accepts the dialog (#14)</li><li>Sketch dimensions can be dragged with Smart Dimension too (#21); what Smart Dimension has picked is drawn in light orange (#22)</li><li>Up To faces, planes and vertices are highlighted in feature dialogs (#26)</li><li>Delete or Backspace deletes the feature selected in the tree (#27)</li><li>Fully defined sketch geometry is green (#28)</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-19/Tecrys-0.6.0-19-windows-arm64.exe" sparkle:edSignature="WGi+Fwst6MTChNh7BvbrQ3UfO1tY2qLxwaAb+dQ1ehdM1szJT5uMy8LeL7znf5UBgfUiTt+QT5L5y7A8oOgRAQ==" length="37011070" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 17)</title>
 <pubDate>Sat, 14 Nov 2026 11:33:41 -0000</pubDate>
 <sparkle:version>17</sparkle:version>
