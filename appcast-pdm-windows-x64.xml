@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Tecrys PDM</title>
+<!-- items, newest first -->
+<item>
+<title>Tecrys PDM 0.8.0 (build 25)</title>
+<pubDate>Tue, 17 Nov 2026 14:32:57 -0000</pubDate>
+<sparkle:version>25</sparkle:version>
+<sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>First public release of Tecrys PDM, the team&#x27;s vault of Tecrys files.</li><li>Mac: the Tecrys PDM app, with the vault server (tecrys-pdm-server) and the tecrys-pdm command line inside the app.</li><li>Windows (x64 and ARM64): the new Tecrys PDM app, with the vault server and the command line, in one installer.</li><li>Updates itself: Check for Updates… (Tecrys PDM menu on the Mac, Help menu in Windows).</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/pdm-v0.8.0-25/TecrysPDM-0.8.0-25-windows-x64.exe" sparkle:edSignature="yHHUgyuAUj/GzNaT1vjO+6RC4n3zEeRVKwbIJipnSOkFdnME/j993mAdMDErrzlVr2LyikOTmzyFq6D5OB6tAg==" length="19990888" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+</channel>
+</rss>
