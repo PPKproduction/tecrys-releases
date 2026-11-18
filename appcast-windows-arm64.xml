@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 27)</title>
+<pubDate>Wed, 18 Nov 2026 22:19:17 -0000</pubDate>
+<sparkle:version>27</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Springs in assemblies: compression and tension springs from a catalogue (or custom), their length set by the mates, with force and stress in the inspector.</li><li>Helix reference curve, and Sweep along a helix.</li><li>Drawings on Windows: the command bar (Model View, Projected View, Arrange Views), Smart Dimension, Note, Centre Line, Centre Mark, Section, Detail and Broken-out tools.</li><li>New Drawing on Windows: File ▸ New Drawing…, the welcome page and Make Drawing in part and assembly windows; the inspector and view menus edit drawings as on the Mac.</li><li>Windows assemblies: drag components within their mates, move and turn them with the triad, and make exploded views.</li><li>Assemblies open faster: their parts are rebuilt on all processor cores at once.</li><li>A drawing made on Windows finds its model on a Mac (and the other way round) when the model is next to it.</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-27/Tecrys-0.6.0-27-windows-arm64.exe" sparkle:edSignature="SsHrGwz1EpIlBEDm9Ruz2TIlSAKWPtLp02kqzp7g7XULyfomnBB5Fg47CxUW2VjQo1930aCokLxCNJhxeOeHAA==" length="37464239" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 21)</title>
 <pubDate>Mon, 16 Nov 2026 23:07:34 -0000</pubDate>
 <sparkle:version>21</sparkle:version>
