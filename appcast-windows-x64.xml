@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 28)</title>
+<pubDate>Thu, 19 Nov 2026 07:24:30 -0000</pubDate>
+<sparkle:version>28</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Typing &quot;=&quot; in a value field (feature dialogs and sketch dimensions) opens a menu of the part&#x27;s dimensions, variables and functions; choose with the arrow keys or a click (#42).</li><li>Linear and circular patterns: clicking a hole or another round face in the viewport picks the feature that made it (#38).</li><li>Measure shows the centre distance from a round edge, hole or cylinder to a flat face or a straight edge (#44).</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-28/Tecrys-0.6.0-28-windows-x64.exe" sparkle:edSignature="TEQVkRqtBnyCwsT2MHnJxZAHOYOXINlPiZ8+IOrD9taFfbQvm7G7/oMBD26O70gqzHEiU0uyEv98knueqHORBQ==" length="33498822" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 27)</title>
 <pubDate>Wed, 18 Nov 2026 22:19:17 -0000</pubDate>
 <sparkle:version>27</sparkle:version>
