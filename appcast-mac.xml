@@ -4,6 +4,15 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 30)</title>
+<pubDate>Tue, 24 Nov 2026 19:59:00 -0000</pubDate>
+<sparkle:version>30</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>The Mac app starts on every Mac again: build 28 needed two libraries (OpenSSL) that were missing from the app.</li><li>Coincident mate between two conical faces seats one on the other, like a countersunk screw head in its countersink.</li></ul>]]></description>
+<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-30/Tecrys-0.6.0-30.dmg" sparkle:edSignature="Y+sgRmjF1u788aOo5lLypR56X/SRW64//QFA2TOdqJUQKE8fVpDn3BesmA9Pm3Q/+KGAchwUswqFV8+Gz+NICw==" length="38324463" type="application/octet-stream" sparkle:os="macos"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 28)</title>
 <pubDate>Thu, 19 Nov 2026 07:24:29 -0000</pubDate>
 <sparkle:version>28</sparkle:version>
