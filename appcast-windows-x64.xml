@@ -9,7 +9,7 @@
 <sparkle:version>30</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>The Mac app starts on every Mac again: build 28 needed two libraries (OpenSSL) that were missing from the app.</li><li>Coincident mate between two conical faces seats one on the other, like a countersunk screw head in its countersink.</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-30/Tecrys-0.6.0-30-windows-x64.exe" sparkle:edSignature="965rge7xTrSkAAx3Sw8vQznQmNBYXy82o5lQf0fD7+PFlJw4prtaj1IIV/r1/KUtMsoCNktA7mVQwaCIOqlwBQ==" length="33501508" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-30/Tecrys-0.6.0-30-windows-x64.exe" sparkle:edSignature="965rge7xTrSkAAx3Sw8vQznQmNBYXy82o5lQf0fD7+PFlJw4prtaj1IIV/r1/KUtMsoCNktA7mVQwaCIOqlwBQ==" length="33501508" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 28)</title>
@@ -17,7 +17,7 @@
 <sparkle:version>28</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Typing &quot;=&quot; in a value field (feature dialogs and sketch dimensions) opens a menu of the part&#x27;s dimensions, variables and functions; choose with the arrow keys or a click (#42).</li><li>Linear and circular patterns: clicking a hole or another round face in the viewport picks the feature that made it (#38).</li><li>Measure shows the centre distance from a round edge, hole or cylinder to a flat face or a straight edge (#44).</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-28/Tecrys-0.6.0-28-windows-x64.exe" sparkle:edSignature="TEQVkRqtBnyCwsT2MHnJxZAHOYOXINlPiZ8+IOrD9taFfbQvm7G7/oMBD26O70gqzHEiU0uyEv98knueqHORBQ==" length="33498822" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-28/Tecrys-0.6.0-28-windows-x64.exe" sparkle:edSignature="TEQVkRqtBnyCwsT2MHnJxZAHOYOXINlPiZ8+IOrD9taFfbQvm7G7/oMBD26O70gqzHEiU0uyEv98knueqHORBQ==" length="33498822" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 27)</title>
@@ -25,7 +25,7 @@
 <sparkle:version>27</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Springs in assemblies: compression and tension springs from a catalogue (or custom), their length set by the mates, with force and stress in the inspector.</li><li>Helix reference curve, and Sweep along a helix.</li><li>Drawings on Windows: the command bar (Model View, Projected View, Arrange Views), Smart Dimension, Note, Centre Line, Centre Mark, Section, Detail and Broken-out tools.</li><li>New Drawing on Windows: File ▸ New Drawing…, the welcome page and Make Drawing in part and assembly windows; the inspector and view menus edit drawings as on the Mac.</li><li>Windows assemblies: drag components within their mates, move and turn them with the triad, and make exploded views.</li><li>Assemblies open faster: their parts are rebuilt on all processor cores at once.</li><li>A drawing made on Windows finds its model on a Mac (and the other way round) when the model is next to it.</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-27/Tecrys-0.6.0-27-windows-x64.exe" sparkle:edSignature="te3OjPvHuuJY6C/wHCF/7rAF/Wf7SEeFJ7eTP7ycY+WI2dfq1SV895FxVWmXuiz2oS4RBR2m3i2oTz6D69OTAA==" length="33486013" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-27/Tecrys-0.6.0-27-windows-x64.exe" sparkle:edSignature="te3OjPvHuuJY6C/wHCF/7rAF/Wf7SEeFJ7eTP7ycY+WI2dfq1SV895FxVWmXuiz2oS4RBR2m3i2oTz6D69OTAA==" length="33486013" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 21)</title>
@@ -33,7 +33,7 @@
 <sparkle:version>21</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Mac and Windows now use the same icons and the same tooltips everywhere (#45): new icons for axes, planes, points, Normal To, Section View, Measure and the display styles.</li><li>Fixed components in an assembly are marked with a pin on both platforms (#45).</li><li>Hovered and selected planes are orange and 5 % opaque on both platforms (#35).</li><li>Windows: loose sketch points stay visible after the sketch is closed (#36).</li><li>Hole dialog: snap points catch the pointer from 16 px and show a ring of that reach (#37).</li><li>Axes are drawn dash-dotted: standard axes, axis features and pattern axes (#39).</li><li>Standard planes shown while making reference geometry no longer draw their axes (#40).</li><li>Equations: the note explains when to type “=” (#41).</li><li>Hole Builder, Drawing Templates, Material Library and the other sheets open maximised (#43).</li><li>Windows: drawings (.tcdrw) open, print and export as PDF; editing them stays on the Mac for now.</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-21/Tecrys-0.6.0-21-windows-x64.exe" sparkle:edSignature="gFweHsIauFf4Bc/gfIIu06Vjn8HR4XDQhZou2HYVo5yYTmVLI+FDzihCdyeTsCbfUUO4MFeqRtDIz+Qv5nMpDQ==" length="33241638" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-21/Tecrys-0.6.0-21-windows-x64.exe" sparkle:edSignature="gFweHsIauFf4Bc/gfIIu06Vjn8HR4XDQhZou2HYVo5yYTmVLI+FDzihCdyeTsCbfUUO4MFeqRtDIz+Qv5nMpDQ==" length="33241638" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 20)</title>
@@ -41,7 +41,7 @@
 <sparkle:version>20</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>A new part opens looking at the three planes from the right and a little above, filling the view (#17).</li><li>The standard axes are drawn once each, dashed (#29).</li><li>A dialog&#x27;s first value is selected when it opens, so you can type the number straight away (#34).</li><li>Enter confirms every dialog, from its fields, checkboxes or the viewport (#33).</li><li>Reference planes you show can be clicked in the viewport when choosing a sketch plane and in the Plane dialog (#30).</li><li>Windows: cosmetic threads are shown (thread texture and end circles); in Wireframe, threads show as a helix on both platforms (#32).</li><li>Hole dialog: the snap points of shown sketches appear at once (also circle quadrants, arc midpoints, ellipse foci); clicking a sketch in the feature tree puts a hole at each of its points and circle centres (#31).</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-20/Tecrys-0.6.0-20-windows-x64.exe" sparkle:edSignature="2usU3C8ObfCVOOfkJBLT45uvo+QhfX4IYClBGKZUp0SWgeUOsPbyEBJzNwkQWO0eie8wikLo1MpRlh2DfEzhBg==" length="33020592" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-20/Tecrys-0.6.0-20-windows-x64.exe" sparkle:edSignature="2usU3C8ObfCVOOfkJBLT45uvo+QhfX4IYClBGKZUp0SWgeUOsPbyEBJzNwkQWO0eie8wikLo1MpRlh2DfEzhBg==" length="33020592" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 19)</title>
@@ -49,7 +49,7 @@
 <sparkle:version>19</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Mouse: left drag draws a selection box (edges; left to right selects what is inside, right to left what it touches), middle drag orbits, Ctrl+middle drag pans, the right button does nothing for now (#15)</li><li>Wireframe shows the outlines of round faces, such as a cylinder&#x27;s sides (#16)</li><li>Planes are 10 % see-through with dashed axes; the empty part&#x27;s plane picker opens in an isometric view of the three planes (#17)</li><li>Windows: the body hides planes behind it and shows where a plane cuts through it; every shown plane carries its name (#18)</li><li>Sketch dimension values accept equations: the part&#x27;s variables and the sketch&#x27;s own D1, D2… (#24)</li><li>A sketch no longer stays selected after a feature is made or the body is clicked (#25)</li><li>Plane/Axis/Point dialog: Front, Top and Right Plane can be clicked, also on an empty part (#12)</li><li>Windows: the feature tree keeps its expanded groups (#13); a command bar button runs the variant it shows (#19); the dimension value field keeps the keyboard (#23)</li><li>Enter in a feature dialog&#x27;s value field accepts the dialog (#14)</li><li>Sketch dimensions can be dragged with Smart Dimension too (#21); what Smart Dimension has picked is drawn in light orange (#22)</li><li>Up To faces, planes and vertices are highlighted in feature dialogs (#26)</li><li>Delete or Backspace deletes the feature selected in the tree (#27)</li><li>Fully defined sketch geometry is green (#28)</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-19/Tecrys-0.6.0-19-windows-x64.exe" sparkle:edSignature="nBo47qOQ48tF03A8eWY9fMJ9YKE2uEOBYyqwET2oz5f2tdeqfKB5PXFwB96xxxJCyoftS7eaFIovgZA+kU/2Bw==" length="33009889" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-19/Tecrys-0.6.0-19-windows-x64.exe" sparkle:edSignature="nBo47qOQ48tF03A8eWY9fMJ9YKE2uEOBYyqwET2oz5f2tdeqfKB5PXFwB96xxxJCyoftS7eaFIovgZA+kU/2Bw==" length="33009889" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 17)</title>
@@ -57,7 +57,7 @@
 <sparkle:version>17</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Hole Builder on Windows too: design custom holes by dragging their section, sort them into categories (Window ▸ Hole Builder).</li><li>Windows assemblies: linear and circular component patterns, Smart Fasteners, Interference, reference planes, axes and points, BOM and Standard Hardware.</li><li>Windows: closing a sketch turns to the isometric view, as on the Mac (#10).</li><li>Mac: the Hole Builder, Standard Hardware, Parts List, pattern, fastener and interference panels now share Windows&#x27; rules.</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-17/Tecrys-0.6.0-17-windows-x64.exe" sparkle:edSignature="MdVE4y3rrGM/ux2uQqpTmf6+D4QASGTe+CIYQFxE6jV2E9Z+rYD70L8LPhQPIPrfnHIiwowK3zyicfla7YbUBQ==" length="32994059" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-17/Tecrys-0.6.0-17-windows-x64.exe" sparkle:edSignature="MdVE4y3rrGM/ux2uQqpTmf6+D4QASGTe+CIYQFxE6jV2E9Z+rYD70L8LPhQPIPrfnHIiwowK3zyicfla7YbUBQ==" length="32994059" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 16)</title>
@@ -65,7 +65,7 @@
 <sparkle:version>16</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Front, Top and Right Plane are drawn stronger, with the X, Y and Z axes where they meet through the origin (#9).</li><li>Windows: the Hole dialog (hole, counterbore, countersink, tapped and custom holes from the standards), the same as on the Mac.</li><li>Windows: Tecrys Help (F1, Help menu and the welcome page).</li><li>Windows: a welcome page with New Part, New Assembly, Open, Help and recent files when no document is open (#8).</li><li>Windows: the standard planes light up under the pointer while you choose a sketch plane (#6).</li><li>Reference geometry dialogs no longer crash when a pick has no plane yet (#7).</li><li>Windows: the Configurations sheet works (it failed to open).</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-16/Tecrys-0.6.0-16-windows-x64.exe" sparkle:edSignature="qW3QtQq9WCRH1rF8FEqnhrjZ+wkMaz8ve38YsC5jrYetrk2zAxIEeL6xdeKkVEnZXcBDiiOH//wKJZBO/jugDw==" length="32857666" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-16/Tecrys-0.6.0-16-windows-x64.exe" sparkle:edSignature="qW3QtQq9WCRH1rF8FEqnhrjZ+wkMaz8ve38YsC5jrYetrk2zAxIEeL6xdeKkVEnZXcBDiiOH//wKJZBO/jugDw==" length="32857666" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 14)</title>
@@ -73,7 +73,7 @@
 <sparkle:version>14</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Reference geometry: planes tangent to cylinders, points at a distance along an edge, reference planes/axes/points in assemblies that follow their components (#3)</li><li>Feature dialogs put the keyboard in the first value (e.g. the extrude depth), so you can type it at once (#4)</li><li>Windows: Esc cancels an open feature dialog (#5)</li><li>Windows: Tecrys assemblies can be edited — component tree with menus, Insert Part, Delete, Save</li><li>Windows: Mates in assemblies (the same Mate tool as on the Mac; picked faces in orange, the first part see-through)</li><li>Windows: Measure and Section View in assemblies</li><li>Mac: Section View in assemblies</li><li>Selected mates: value, Suppressed, Flip Side/Alignment and Delete in the inspector on both platforms</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-14/Tecrys-0.6.0-14-windows-x64.exe" sparkle:edSignature="a+XVG9tHt6zMgRMsAnCOIhGMmBP/VdQii8PgrSz78S0D3/Gig+avES8iiIQqA5/EIVmnvB9aAPTSUM8PVZNlDg==" length="32755834" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-14/Tecrys-0.6.0-14-windows-x64.exe" sparkle:edSignature="a+XVG9tHt6zMgRMsAnCOIhGMmBP/VdQii8PgrSz78S0D3/Gig+avES8iiIQqA5/EIVmnvB9aAPTSUM8PVZNlDg==" length="32755834" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 13)</title>
@@ -81,7 +81,7 @@
 <sparkle:version>13</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>Help ▸ Suggest a Feature… and Report a Problem… open a short form (your version and platform filled in)</li><li>New Help topic: Ideas and Problems</li><li>This is the first update delivered through Check for Updates — if you see this, updating works</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-13/Tecrys-0.6.0-13-windows-x64.exe" sparkle:edSignature="z8ZCujJyfeNHIXyC41ylOa84vliRbfYsfIErcgAI2mXNWKinPjn8ojj8YLzphII9AgsXQoPiYtYm3p7TAD8hCw==" length="32642843" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-13/Tecrys-0.6.0-13-windows-x64.exe" sparkle:edSignature="z8ZCujJyfeNHIXyC41ylOa84vliRbfYsfIErcgAI2mXNWKinPjn8ojj8YLzphII9AgsXQoPiYtYm3p7TAD8hCw==" length="32642843" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 <item>
 <title>Tecrys 0.6.0 (build 12)</title>
@@ -89,7 +89,7 @@
 <sparkle:version>12</sparkle:version>
 <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
 <description><![CDATA[<ul><li>First release with automatic updates: Tecrys ▸ Check for Updates… (Mac), Help ▸ Check for Updates… (Windows)</li><li>Material Library: search filters as you type; problems in the standards library are listed in the window</li><li>Your standards library (materials, holes, threads, hardware) is kept in your own folder and survives updates</li><li>Equations, Properties, Configurations and the Material Library work the same on Mac and Windows</li><li>&quot;Made of&quot; is now called &quot;Material&quot;</li></ul>]]></description>
-<enclosure url="https://github.com/PPKproduction/tecrys-releases/releases/download/v0.6.0-12/Tecrys-0.6.0-12-windows-x64.exe" sparkle:edSignature="bFmDIIC4mN6mSgrwC/LVdFlfq/Bp5/iaP25H5XDSd9dEaoBP42gHLMtKSut+i7QzV6az+MY+kkVETjoI2QrZCA==" length="32643593" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-12/Tecrys-0.6.0-12-windows-x64.exe" sparkle:edSignature="bFmDIIC4mN6mSgrwC/LVdFlfq/Bp5/iaP25H5XDSd9dEaoBP42gHLMtKSut+i7QzV6az+MY+kkVETjoI2QrZCA==" length="32643593" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
 </item>
 </channel>
 </rss>
