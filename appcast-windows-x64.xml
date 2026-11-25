@@ -4,6 +4,14 @@
 <title>Tecrys</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys 0.6.0 (build 31)</title>
+<pubDate>Wed, 25 Nov 2026 06:55:18 -0000</pubDate>
+<sparkle:version>31</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Updates and Help ▸ Report a Problem / Suggest a Feature now use github.com/jakpokcz/tecrys-releases.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-releases/releases/download/v0.6.0-31/Tecrys-0.6.0-31-windows-x64.exe" sparkle:edSignature="DHiFzThRrSfabX7dEpHky/O9vOHC+SBYJPNFYcUmM9lTWsO4ghZ8MFiXcZgLhWgeqm+2+PsRFpKk0VDXa8ZLBQ==" length="33501883" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys 0.6.0 (build 30)</title>
 <pubDate>Tue, 24 Nov 2026 19:59:00 -0000</pubDate>
 <sparkle:version>30</sparkle:version>
